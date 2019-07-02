@@ -1,0 +1,19 @@
+Efforts for ensuring medical and psychological well-being during and after disasters are hindered by lack of ready access to medical records, information and expertise.
+
+The existing solutions, systems and applications have a fundamental issue – They are siloed and not universally accessible to the disaster victims and first responders in disaster situations.
+Sparrow Platform is a one stop solution to ensure preparedness, wellbeing and recovery of disaster affected population.
+
+Sparrow connects disaster victims and medical workers to experts around the world to make medical advice, or information regarding correct medical procedures and medicines available to them at their fingertips. Victims and experts can connect irrespective of where they are, whether they have access to internet or whether they have any particular applications installed.
+Sparrow achieves this through ‘Sparrow Net’ – An ubiquitous network that makes Sparrow accessible through any medium of communication like Whatsapp, Facebook messenger, WeChat, SMS, Voice calls, etc and even without internet through integration with Project Owl’s clusterduck and a smartphone based Peer to peer mesh network called ‘Sparrow Mesh’.
+
+Anyone can join Sparrow Mesh through smartphones by simply downloading Sparrow App. Sparrow App comes with many ‘Offline first features’ that lets users communicate with people near them, send SOS signals, store and retrieve EMR documents, track family, etc without connecting to internet or hardware like Project owl’s cluster duck.
+
+For the times when all experts are busy responding to others in need, we have built Sparrow AI. Sparrow AI is a companion who can recommend basic first Aid, help you diagnose diseases, get general medical information and also guide you through tough times to ensure psychological wellbeing. Sparrow AI knows years’ worth rich medical facts and information and also is a psychiatrist trained to deliver Cognitive Behavioural therapy.
+
+Sparrow Platform allows developers to create ‘Sparrow Applets’ to deliver custom content for helping disaster victims. Application like American Red cross, FEMA can be easily delivered through conversations with Sparrow! Users will simply ask questions. Sparrow will intelligently route these questions to Sparrow Applets and get back the answers to users.
+
+Sparrow is a open source software, and we are continuously working with medical and technology experts to improve the content delivered through Sparrow. We invite developers to help us create Sparrow Applets, and medicine or psychology experts to help us improve Sparrow AI.
+
+Details on Sparrow Platform features, working and implementation can be found on our website (www.sparrow-platform.com)
+Thank you! 
+
